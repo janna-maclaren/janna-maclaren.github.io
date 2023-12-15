@@ -6,4 +6,4 @@ author:
 description: Test site to learn how to use these tools.
 
 # Build settings
-remote_theme: jekyll/minima
+theme: jekyll-theme-minima
