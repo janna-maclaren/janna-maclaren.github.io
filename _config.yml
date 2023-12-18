@@ -1,9 +1,0 @@
-# Site settings
-title: Test Site
-author:
-  name: Janna MacLaren
-  email: Janna.MacLaren@gmail.com
-description: Test site to learn how to use these tools.
-
-# Build settings
-theme: jekyll-theme-minima
